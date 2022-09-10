@@ -1,10 +1,10 @@
-package com.example.springbootstarterexample
+package com.example.server
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SpringBootStarterExampleApplicationTests {
+class ServerApplicationTests {
 
     @Test
     fun contextLoads() {

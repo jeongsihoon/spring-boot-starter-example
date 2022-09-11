@@ -1,4 +1,6 @@
 rootProject.name = "spring-boot-starter-example"
 
-include("server")
-include("spring-boot-starter")
+include("spring-boot-autoconfigure-morgan")
+include("spring-morgan")
+include("spring-boot-starter-morgan")
+include("spring-boot-starter-morgan-demo")
